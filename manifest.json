@@ -1,0 +1,19 @@
+{
+  "name": "زکوٰۃ کیلکولیٹر — مرکز اہل السنّۃ والجماعۃ، خانقاہ حنفیہ",
+  "short_name": "زکوٰۃ کیلکولیٹر",
+  "description": "اپنے علاقے کے چاندی/سونے کے ریٹ کے مطابق نصاب معلوم کریں اور واجب الادا زکوٰۃ کا حساب لگائیں۔",
+  "start_url": "./index.html",
+  "id": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5EEDC",
+  "theme_color": "#0E4030",
+  "dir": "rtl",
+  "lang": "ur",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
